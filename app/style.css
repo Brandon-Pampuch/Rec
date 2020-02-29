@@ -139,3 +139,13 @@ button.remove-clipping:disabled {
 .clippings-list-item:hover button.remove-clipping {
   display: inline-block;
 }
+
+
+.menu {
+  display: flex;
+
+}
+
+a{
+  margin-right: 30px;
+}
